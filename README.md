@@ -43,7 +43,6 @@ To run this project, you'll need Python and the following libraries:
 - scikit-learn
 - seaborn
 - matplotlib
-- joblib
 
 You can install the required libraries using pip:
 
