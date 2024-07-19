@@ -47,7 +47,7 @@ To run this project, you'll need Python and the following libraries:
 You can install the required libraries using pip:
 
 ```bash
-pip requirments.txt
+ pip3 install -r requirements.txt
 ```
 
 ## Set up
